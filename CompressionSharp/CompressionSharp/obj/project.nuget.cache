@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGJ5fQM1EVQ1fCULNPiFtcXKwleXic6d+vaAcpa22iJrdwMh4x+gjFhdWIAlEjeRknCuFrM7d1geJK48UHUOUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\truon\\OneDrive\\Desktop\\CompressionSharp\\CompressionSharp\\CompressionSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\truon\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
